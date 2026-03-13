@@ -1,0 +1,2 @@
+# Hamcraft-Main
+yes
